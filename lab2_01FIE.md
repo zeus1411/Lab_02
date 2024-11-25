@@ -1,4 +1,4 @@
-# Lab #1,20110357, Nguyen Quoc Hung, INSE331280E_01FIE
+# Lab #1,22110039, Nguyen Quoc Hung, INSE331280E_01FIE
 # Task 1: Transfer Files Between Computers
 Using openssl to implementing measures manually to ensure file integerity and authenticity at sending side, 
 then veryfing at receiving side
